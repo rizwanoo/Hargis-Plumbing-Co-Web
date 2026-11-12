@@ -1,0 +1,6 @@
+{
+  "name": "Hargis Plumbing Co. | Master Plumber MP7489 NWA",
+  "description": "Award-winning custom website for Hargis Plumbing Co., Northwest Arkansas's trusted Master Plumber (MP7489) serving Bentonville, Rogers, Springdale, and Fayetteville.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

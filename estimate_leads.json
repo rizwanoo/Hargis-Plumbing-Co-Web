@@ -1,0 +1,14 @@
+[
+  {
+    "id": "HPC-069291",
+    "createdAt": "2026-11-12T11:47:49.291Z",
+    "name": "David Miller",
+    "phone": "(479) 555-0188",
+    "email": "david@example.com",
+    "address": "204 NW 2nd St",
+    "city": "Bentonville",
+    "issue": "Looking to replace water heater with high efficiency tankless unit",
+    "preferredContact": "phone",
+    "status": "received"
+  }
+]
